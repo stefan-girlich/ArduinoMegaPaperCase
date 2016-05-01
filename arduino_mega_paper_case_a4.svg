@@ -97,7 +97,8 @@
      inkscape:label="board"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:#c3d6eb;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 276.90498,485.80505 0,348.33576 4.46583,0 8.93169,8.9317 120.57779,0 8.93167,-8.9317 35.72676,0 8.93169,-8.84622 -3e-5,-339.48954 z"
@@ -125,7 +126,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="case"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:none;fill-opacity:0.51315792;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6896"
@@ -148,7 +150,7 @@
        height="99.212601"
        width="367.13287"
        id="rect4174"
-       style="opacity:1;fill:none;fill-opacity:0.55263157;stroke:#000000;stroke-width:0.35433071;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:0.55263157;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(0,1,1,0,0,0)" />
     <rect
        y="-575.85547"
@@ -198,7 +200,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="labels"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
