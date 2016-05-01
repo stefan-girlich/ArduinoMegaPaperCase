@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="arduino_mega_paper_case_a4.svg">
+   sodipodi:docname="arduino_mega_paper_case_a4.svg"
+   inkscape:export-filename="arduino_mega_paper_case_a4.png"
+   inkscape:export-xdpi="123.85524"
+   inkscape:export-ydpi="123.85524">
   <defs
      id="defs4">
     <marker
@@ -37,11 +40,11 @@
        orient="auto"
        refY="0.0"
        refX="0.0"
-       id="EmptyDiamondM"
+       id="marker4140"
        style="overflow:visible"
        inkscape:isstock="true">
       <path
-         id="path4486"
+         id="path4142"
          d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
          style="fill-rule:evenodd;fill:#ffffff;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="scale(0.4)" />
@@ -69,8 +72,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.715"
-     inkscape:cx="243.41906"
-     inkscape:cy="494.58384"
+     inkscape:cx="329.43305"
+     inkscape:cy="-8.9126635"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
